@@ -1,0 +1,6 @@
+{
+  "name": "DistroPulse - Music Distribution & Royalty Hub",
+  "description": "Digital music distribution, global streaming royalties, audience demographics, built-in payouts, and direct fan subscriptions for independent artists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
